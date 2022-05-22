@@ -364,3 +364,22 @@ opacity: 0.8;
 .p-img-not-active{
     display: none;
 }
+
+/* =============================================
+       Bio Section start
+   ==============================================*/
+
+   .section-work{
+       background-color: var(--helper);
+       text-align: center;
+       transition: all 0.5s linear ;
+       color:var(--white);
+   }
+   .section-work p{
+    color:var(--white);
+       font-size: 1.8rem;
+       text-transform: capitalize;
+   }
+   .counter-num{
+       font-size: 4.8rem;
+   }
